@@ -1,4 +1,4 @@
-## Taxi Parking
+## Taxi Park
 
 Based on: https://github.com/jesusgsdev/taxipark-kotlin
 
